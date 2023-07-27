@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-color: #000000;
+  background-color: #000000c7;
   color: #ffffff;
   text-align: center;
   padding: 1rem;
@@ -40,7 +40,7 @@ main {
   display: block;
   margin: 0 auto;
   padding: 1rem;
-  background-color: #3f3333;
+  background-color: #080808b7;
   color: #ffffff;
   border: none;
   cursor: pointer;
